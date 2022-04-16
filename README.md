@@ -1,6 +1,6 @@
 # Crypto Arbitrage Opportunities
 
-This program sorts throught historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. The program will determine if any arbitrage opportunities exist for Bitcoin and provide general overall anaylysis.
+This program sorts through historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. The program will determine if any arbitrage opportunities existed for Bitcoin between January 1st 2018 and March 31st 2018.
 
 ---
 
