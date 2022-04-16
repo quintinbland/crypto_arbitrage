@@ -27,9 +27,11 @@ Before running the application first install the following dependencies.
 
 ## Analysis
 
-* Profitable trades typically occur later in the day. 
-* Larger profit spreads in January compared to Feb and March. 
-* Feb 1st only had one profitable trade while March 1st did not have a single profitable trade. 
+# Profitable trades typically occur later in the day. 
+# Larger profit spreads in the month of January compared to Feb and March.
+# January 1st had 7 profitable trades
+# Feb 1st had one profitable trade
+# March 1st did not have a profitable trade. 
 
 
 ---
